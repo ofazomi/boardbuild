@@ -1,3 +1,9 @@
+
+Heroku Info
+http://dry-atoll-4387.herokuapp.com/ | git@heroku.com:dry-atoll-4387.git
+heroku.com,50.19.85.132
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
